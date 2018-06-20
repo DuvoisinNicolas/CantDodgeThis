@@ -8,6 +8,7 @@ public class Ball extends Circle {
     private IntegerProperty posY = new SimpleIntegerProperty();
     private IntegerProperty radius = new SimpleIntegerProperty();
 
+
     public Ball ()
     {
         posX.set(400);
